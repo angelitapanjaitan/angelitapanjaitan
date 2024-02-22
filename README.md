@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-<!--
-Perkenalkan nama saya **Angelita Dumaria Panjaitan**.<br>
+Perkenalkan nama ku **Angelita Dumaria Panjaitan**.<br>
 
-Saya seorang **menti** di [Dicoding](https://www.dicoding.com/).<br>
+Aku mahasiswa semester 8 di Institut Teknologi Del, angkatan 2020
 
-Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).<br>
+Saat ini, aku disibukkan dengan beberapa kegiatan. Salah satunya menjadi peserta atau **menti** di [Dicoding](https://www.dicoding.com/) dan [coursera] (https://www.coursera.org/) melalui program Studi Independen [Bangkit Academy] (https://dashboard.bangkit.academy/). Selain mengikuti perkuliahan reguler, aku juga sedang mengikuti kegiatan kewirausaaan mahasiswa.<br>
 
-Saya juga memiliki gelar Google Associate Android Developer sejak 2019.<br>
+Di Program Bangkit Academy ini aku mengambil course Machine Learning.<br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/angelitapanjaitan/)ku ya.
--->
+Aku memang sudah tertarik dengan machine learning sejak berada di semester 5 dan berencana berkarir di bidang terssebut.<br>
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin]([https://www.linkedin.com/in/angelitapanjaitan/])ku ya.
