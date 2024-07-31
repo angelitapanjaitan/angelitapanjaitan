@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Angelita. I am interested in work that requires accuracy, analysis, systematics, creativity, and business, which challenges my knowledge to keep growing. I am also a fast learner, able to work independently and more optimally in a team. Proactive in following up on work and well- organised.<br>
+I'm Angelita. I am interested in work that requires accuracy, analysis, systematics, creativity, and business, which challenges my knowledge to keep growing. I am also a fast learner, able to work independently and more optimally in a team. Proactive in following up on work and well-organized.<br>
 
 Keep in touch with me on [Linkedin]([https://www.linkedin.com/in/angelitapanjaitan/]).
 
