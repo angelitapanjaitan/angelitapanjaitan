@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+### My name is Angelita.
 
 I’m passionate about analyzing business processes and translating them into effective system solutions. With a background in Information Systems, I focus on aligning technology with business needs. Skilled in gathering requirements, making process flow diagrams, and collaborating with teams. I also have experience using SQL, Trello, Draw.io, StarUML, and Bizagi to support System and Business analysis. Strong in analytical thinking, problem-solving, and attention to detail. Always excited to learn, grow, and contribute to impactful projects.<br>
 
