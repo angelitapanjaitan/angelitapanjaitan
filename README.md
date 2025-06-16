@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I'm Angelita. I am interested in work that requires accuracy, analysis, systematics, creativity, and business, which challenges my knowledge to keep growing. I am also a fast learner, able to work independently and more optimally in a team. Proactive in following up on work and well-organized.<br>
+
+I’m passionate about analyzing business processes and translating them into effective system solutions. With a background in Information Systems, I focus on aligning technology with business needs. Skilled in gathering requirements, making process flow diagrams, and collaborating with teams. I also have experience using SQL, Trello, Draw.io, StarUML, and Bizagi to support System and Business analysis. Strong in analytical thinking, problem-solving, and attention to detail. Always excited to learn, grow, and contribute to impactful projects.<br>
 
 Keep in touch with me on [Linkedin]([https://www.linkedin.com/in/angelitapanjaitan/]).
 
